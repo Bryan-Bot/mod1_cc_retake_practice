@@ -101,8 +101,8 @@ Deliverables use the notation `#` for instance methods, and `.` for class method
   - returns the highest price (integer) for all `MenuItem` instances of this `Recipe` instance. 
 - `Recipe#cheapest_restaurant`
   - returns the `Restaurant` instance where this `Recipe` instance is the cheapest. 
-- `Recipe.inactive`
-  - returns an array of `Recipe` instances that are not currently being sold at any restaurants.
+<!-- - `Recipe.inactive`
+  - returns an array of `Recipe` instances that are not currently being sold at any restaurants. -->
 
 #### Restaurant
 - `Restaurant#has_dish?(recipe)`
